@@ -13,7 +13,7 @@ Cada año tiene su propio directorio con la siguiente estructura:
 
 ## Contribuciones
 
-Si deseas contribuir o agregar información, por favor revisa el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para conocer las mejores prácticas y cómo colaborar.
+Si deseas contribuir o agregar información, por favor revisa el archivo [CONTRIBUTING.md](https://github.com/pythonpanama/pycon_panama/blob/main/Contributing.md) para conocer las mejores prácticas y cómo colaborar.
 
 ## Contacto
 
