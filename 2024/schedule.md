@@ -31,6 +31,10 @@ A continuación se detalla el horario completo del evento:
 
 | Hora    | Actividad                                                               | Ponente                      | Lugar              |
 |---------|-------------------------------------------------------------------------|------------------------------|--------------      |
+| 9:00 AM |                                                                         |                              |                    |
+|         |                                                                         |                              |                    |
+| 9:30 AM |                                                                         |                              |                    |
+|         |                                                                         |                              |                    |
 |10:00 AM | Deploy machine learning model                                           | Naren Castellon              | Conferencia 10     |
 |         | IA Generativa con Python y Langchain                                    | Gerardo Nuñez Pitty          | Conferencia 10A    |
 |10:30 AM | Creando un visualizador BIM con Django y THREE.js                       | Jose Luis Munoz              | Conferencia 11     |
@@ -39,7 +43,7 @@ A continuación se detalla el horario completo del evento:
 |         |                                                                         | Alberto Domingo              | Conferencia 12A    |
 |11:30 AM | Integración de un Plan Piloto con Python, PostgreSQL y la Nube Segura   | Emmanuel Ryce                | Conferencia 13     |
 |         |                                                                         |                              | Conferencia 13A    |
-|12:00 PM | Networking                                                              |                              | Receso             |
+|12:00 PM |                                                                         |                              | Receso             |
 |12:30 PM | Almuerzo                                                                |                              |                    |
 | 1:30 PM | Futuro de la Programación                                               | Panel de Expertos            | Mesa Redonda       |
 | 2:00 PM | Cierre oficial del evento y Entrega de Reconocimientos                  | Comité Organizador           | Clausura           |
