@@ -47,4 +47,6 @@ A continuación se detalla el horario completo del evento:
 |12:30 PM | Almuerzo                                                                |                              |                    |
 | 1:30 PM | Futuro de la Programación                                               | Panel de Expertos            | Mesa Redonda       |
 | 2:00 PM | Cierre oficial del evento y Entrega de Reconocimientos                  | Comité Organizador           | Clausura           |
-| 2:30 PM | Oportunidad para establecer contactos                                   | Todos los asistentes         | Open Space         |
+| 2:30 PM | Futuro de la Programación                                               | Panel de Expertos            | Mesa Redonda       |
+| 3:00 PM | Oportunidad para establecer contactos                                   | Todos los asistentes         | Open Space         |
+| 3:30 PM | Oportunidad para establecer contactos                                   | Todos los asistentes         | Open Space         |
