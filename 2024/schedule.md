@@ -32,9 +32,9 @@ A continuación se detalla el horario completo del evento:
 | Hora    | Actividad                                                               | Ponente                      | Lugar              |
 |---------|-------------------------------------------------------------------------|------------------------------|--------------      |
 | 9:00 AM |                                                                         |                              |                    |
-|         |                                                                         |                              | Virtual            |
+|         | Cómo usar Python para curar enfermedades genéticas                      | Marina Moro López            | Virtual            |
 | 9:30 AM |                                                                         |                              |                    |
-|         |                                                                         |                              | Virtual            |
+|         | Optimizando la precisión de la generación de respuestas con la técnica RAG (Retrieval-Augmented Generation) en Python       | María Carolina Passarello    | Virtual            |
 |10:00 AM | Deploy machine learning model                                           | Naren Castellon              | Conferencia 10     |
 |         | IA Generativa con Python y Langchain                                    | Gerardo Nuñez Pitty          | Conferencia 10A    |
 |10:30 AM | Creando un visualizador BIM con Django y THREE.js                       | Jose Luis Munoz              | Conferencia 11     |
