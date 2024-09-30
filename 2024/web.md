@@ -5,6 +5,9 @@ La página web de PyCon Panamá 2024 debería incluir las siguientes secciones:
 ## Acerca de
 
 - **PyCon Panamá**: Información general sobre el evento, su misión y visión.
+
+La misión de PyCon Panamá es reunir a la comunidad de Python en un evento dinámico y enriquecedor para promover la innovación, la colaboración y el aprendizaje continuo. A través de conferencias temáticas, talleres interactivos y oportunidades estratégicas de networking, buscamos potenciar el desarrollo profesional y técnico de los participantes, adaptándonos a las tendencias y necesidades actuales.
+
 - **Historia**: Breve historia de PyCon Panamá y su evolución a lo largo de los años.
 - **Comunidad**: Detalles sobre la comunidad de Python en Panamá y su impacto.
 - **Código de Conducta**: Reglas y expectativas para los participantes, organizadores y ponentes.
